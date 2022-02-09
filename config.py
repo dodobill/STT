@@ -18,7 +18,7 @@ configs.weight_decay = 0
 configs.display_interval = 120
 configs.num_epochs = 100
 configs.early_stopping = True
-configs.patience = 10
+configs.patience = 30
 configs.gradient_clipping = False
 configs.clipping_threshold = 1.
 
